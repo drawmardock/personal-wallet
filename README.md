@@ -1,4 +1,4 @@
-# personal-wallet
+# personal-wallet-solana
 Create your personal Solana wallet with Go
 
 #Installation of Cobra Go package
